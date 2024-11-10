@@ -23,7 +23,6 @@ class MyWindow(Tk):
         self.grid_columnconfigure(3, weight=1, uniform="same_group")
         self.grid_columnconfigure(4, weight=1, uniform="same_group")
 
-        # On définit quelques éléments de style pour nos boutons.
         self.default_button_style = {
             "bg": "#595959", "fg": "white", "highlightthickness": 0,
             "font": ("Arial", 25, "bold")
