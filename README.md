@@ -20,7 +20,7 @@ __**Version 1.0**__<br>
 A simple retro calculator in python.<br>
 He use tkinter and maths libraries.<br>
 
-<img src="https://github.com/user-attachments/assets/1c74b51d-c8db-449d-bbd6-d4f3b3989de4" width="300" height="300"/>
+<img src="https://github.com/user-attachments/assets/29394723-7ea2-4b55-b00b-d20018eea9a3" width="300" height="400"/>
 
 
 ## Features
